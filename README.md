@@ -149,7 +149,7 @@ echo $OPENCODE_ZEN_API_KEY
 
 ```
 moa-free-models/
-├── SKILL.md                          # Main skill documentation
+├── SKILL.md (v3.2.1)                          # Main skill documentation
 ├── README.md                         # This file
 ├── tools/
 │   └── mixture_of_agents_tool_free.py  # Core MoA implementation
